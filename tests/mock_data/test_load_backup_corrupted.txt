@@ -1,0 +1,3 @@
+BEGIN_ENTRY
+corrupted data
+END_ENTRY
